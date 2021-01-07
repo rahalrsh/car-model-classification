@@ -98,7 +98,7 @@ You can download the trained model from [Download Model](https://drive.google.co
 - Once the training is done, your model will get saved to cars-classifier/saved_models directory
 
 
-### 3. Run the web server
+#### 3. Run the web server
 - Setup the web server locally by following the instructions in the web-scraper project
 - Copy the trained model to web-app/cars-be/saved_models directory
 - Run `uvicorn main:app --reload` and navigate to `http://127.0.0.1:8000/docs`
