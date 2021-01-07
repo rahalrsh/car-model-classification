@@ -36,6 +36,8 @@ Training dataset - 2826 Images
 
 Testing dataset - 587 Images
 
+<img src="https://github.com/rahalrsh/car-model-classification/blob/main/public/Dataset.png" width="75%">
+
 
 ## Download the Dataset 
 You can download the dataset from [Download Dataset](https://drive.google.com/drive/folders/1xlXPt7UOc1eTYVrw02qxi50pQ0NBkLPG?usp=sharing)
@@ -44,6 +46,16 @@ You can download the dataset from [Download Dataset](https://drive.google.com/dr
 ## Download the Trained Model
 You can download the trained model from [Download Model](https://drive.google.com/drive/folders/1xlXPt7UOc1eTYVrw02qxi50pQ0NBkLPG?usp=sharing)
 
+## Get Predictions
+#### Raw predictions results from the trained model are shown below
+<img src="https://github.com/rahalrsh/car-model-classification/blob/main/public/Pred-1.png" width="75%">
+<img src="https://github.com/rahalrsh/car-model-classification/blob/main/public/Pred-2.png" width="75%">
+
+<br/>
+
+#### You may also use the FastApi based web server to get predictions in JSON format as well
+<img src="https://github.com/rahalrsh/car-model-classification/blob/main/public/Fast-API-Request.png" width="75%">
+<img src="https://github.com/rahalrsh/car-model-classification/blob/main/public/Fast-API-Response.png" width="75%">
 
 ## Train Your Own Model
 
