@@ -103,7 +103,7 @@ You can download the trained model from [Download Model](https://drive.google.co
 - Copy the trained model to web-app/cars-be/saved_models directory
 - Run `uvicorn main:app --reload` and navigate to `http://127.0.0.1:8000/docs`
 - Navigate to /prediction endpoint, Choose File and hit Execute
-- You will get a server resoponse as below
+- You will get a server response in JSON format as below
 ```
         Code 200
         Response body

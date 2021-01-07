@@ -3,7 +3,7 @@
 
 ### Overview
 This model was trained on a relatively small dataset of around 2800 images of 4 vehicle classes (~700 images per class).
-Since the dataset is relatively small, the classification model was trained by transfer learning and fine-tuning an existing model
+Since the dataset is relatively small, the classification model was trained by transfer learning and fine-tuning an existing model.
 The base model used here is a VGG16 network pre-trained on the imagenet dataset.
 By adding an extra GlobalAveragePooling2D layer, a few Dense layers and 50% Dropout for regularization, I trained the model as below
 
