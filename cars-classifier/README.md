@@ -15,7 +15,7 @@ I also used image augmentation techniques like random image flipping, zooming an
 The final model is able to identify the different vehicle models with an overall accuracy of 91%
 
 ### Model Summary
-<img src="https://github.com/rahalrsh/car-model-classification/blob/main/public/ModelSummary.png">
+<img src="https://github.com/rahalrsh/car-model-classification/blob/main/public/ModelSummary.png" width="50%">
 
 ### Download the Dataset 
 You can download the dataset from [Download Dataset](https://drive.google.com/drive/folders/1xlXPt7UOc1eTYVrw02qxi50pQ0NBkLPG?usp=sharing)
